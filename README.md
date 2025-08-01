@@ -1,7 +1,7 @@
 # MLCvis
 Prototype for evaluating and comparing multi label classifiers.
 
-[Image]
+![MLCVis graphics overview](mlcvis_graphics.png)
 
 Paper submitted at:
 
