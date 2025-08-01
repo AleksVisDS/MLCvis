@@ -12,7 +12,7 @@ Just open the `convis.html` file in a browser or copy it to a webserver. No back
 Load the files in `Example/` as instructed by the interface.
 
 ## How do I use my own data?
-Take a look at `Example/` directory and adapt your data. in general, you need:
+Take a look at `Example/` directory and adapt your data. You need:
 * A list of labels like in `Examples/categories.csv`
 * Ground truth with ID, title, and label vector. The title is used to access the image files located in `RawData/` in this example.
 * Prediction files: Array of binary label vectors.
