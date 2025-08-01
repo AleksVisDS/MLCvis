@@ -6,7 +6,7 @@ Prototype for evaluating and comparing multi label classifiers.
 Paper submitted at:
 
 ## Installation
-Just open the convis.html file in a browser or copy it to a webserver. No backend required!
+Just open the convis.html file in a browser or copy it to a webserver. No backend required.
 
 ## Try it out!
 Load the files in `Example/` as instructed by the interface.
