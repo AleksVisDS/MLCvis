@@ -1,0 +1,133 @@
+/*
+    USE FOR ACADEMIC PURPOSES ONLY
+
+    Aleksandar Doknic
+    University of Vienna
+    Faculty for Computer Science
+    Last file update: May 07, 2020
+*/
+
+html,
+body {
+    /*height: 100%;
+    width: 100%;*/
+}
+
+html {
+    /*overflow-x: hidden;*/
+    /*scrollbar-width: thin;*/
+    /*scrollbar-color: lightgray white;*/
+}
+
+body {
+    background-color: white;
+    font-family: sans-serif;
+    color: black;
+}
+
+td {
+    /*padding: 0px;*/
+}
+
+a {
+    color: white;
+}
+
+#uploader {
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    width: 800px;
+    text-align: center;
+    background-color: rgba(205, 205, 255, 0.2);
+    padding: 20px;
+    font-size: 80%;
+}
+
+#uploadinput {
+    margin: auto;
+}
+
+.button {
+    padding: 2px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 5px;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    font-weight: bold;
+    color: #333;
+    font-size: 80%;
+    opacity: 0.9;
+    box-shadow: inset -3px -3px 5px grey;
+    font-size: 70%;
+}
+
+.button:hover {
+    opacity: 1.0;
+}
+
+.button:active {
+    opacity: 1.0;
+    box-shadow: inset 3px 3px 10px grey;
+}
+
+#logo {
+    color: mintcream;
+    font-size: 50px;
+    text-shadow: 0px 0px 10px midnightblue;
+    cursor: default;
+}
+
+.exampletable {
+    display: inline-block;
+    font-family: monospace;
+    font-size: 120%;
+}
+
+.exampletable td {
+    /*padding: 8px;*/
+    background-color: rgba(0, 255, 0, 0.3);
+}
+
+/*
+.slider input {
+    width: auto;
+}
+
+input[type=range]::-ms-track {
+    background: transparent;
+    color: transparent;
+    border: none;
+}
+
+input[type=range]::-ms-fill-upper {
+    background: #aaa;
+}
+
+input[type=range]::-ms-fill-lower {
+    background: #aaa;
+}
+
+input[type=range]::-ms-thumb {
+    background: blue;
+    border: transparent;
+}
+
+input[type=range]::-ms-thumb:hover {
+    background: rgb(133, 133, 133);
+}
+
+.clcAxesGroup line, path {
+    stroke: black;
+}
+
+.clcAxesGroup text {
+    fill: black;
+}
+*/
