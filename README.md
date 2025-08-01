@@ -20,3 +20,5 @@ Take a look at `Example/` directory and adapt your data. You need:
 * Prediction files: Array of binary label vectors.
 * To provide a preview of your data, you need to modify `js/comparisonBlocks.js`
 
+## Tutorial
+`TODO`
