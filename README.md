@@ -11,6 +11,8 @@ Just open the `convis.html` file in a browser or copy it to a webserver. No back
 ## Try it out!
 Load the files in `Example/` as instructed by the interface.
 
+![Dashboard](dashboard.png)
+
 ## How do I use my own data?
 Take a look at `Example/` directory and adapt your data. You need:
 * A list of labels like in `Examples/categories.csv`
