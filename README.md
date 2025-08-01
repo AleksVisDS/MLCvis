@@ -3,7 +3,7 @@ Prototype for evaluating and comparing multi label classifiers.
 
 ![MLCVis graphics overview](mlcvis_graphics.png)
 
-Paper submitted at:
+Paper submitted at: `TODO`
 
 ## Installation
 Just open the `convis.html` file in a browser or copy it to a webserver. No backend required.
@@ -21,4 +21,4 @@ Take a look at `Example/` directory and adapt your data. You need:
 * To provide a preview of your data, you need to modify `js/comparisonBlocks.js`
 
 ## Tutorial
-`TODO`
+[![Demo Video](https://img.youtube.com/vi/96yK5SCd5Lo/hq720.jpg)](https://www.youtube.com/watch?v=96yK5SCd5Lo)
