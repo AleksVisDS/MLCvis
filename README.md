@@ -1,7 +1,7 @@
-# MLCvis
-Prototype for evaluating and comparing multi label classifiers.
+# MLCvis - Prototype for evaluating and comparing multi label classifiers.
 
 ![MLCVis graphics overview](mlcvis_graphics.png)
+*Image: Antonia Saske*
 
 Paper submitted at: `TODO`
 
